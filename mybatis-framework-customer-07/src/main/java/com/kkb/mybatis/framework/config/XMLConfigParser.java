@@ -1,13 +1,14 @@
 package com.kkb.mybatis.framework.config;
 
-import com.kkb.mybatis.framework.sqlsession.DocumentReader;
+import java.io.InputStream;
+import java.util.List;
+import java.util.Properties;
+
 import org.apache.commons.dbcp.BasicDataSource;
 import org.dom4j.Document;
 import org.dom4j.Element;
 
-import java.io.InputStream;
-import java.util.List;
-import java.util.Properties;
+import com.kkb.mybatis.framework.sqlsession.DocumentReader;
 
 public class XMLConfigParser {
 

@@ -13,8 +13,8 @@ public class DefaultSqlSessionFactory implements SqlSessionFactory {
 	//真正实现SqlSession接口的代码
 	@Override
 	public SqlSession openSession() {
-		// TODO Auto-generated method stub
-		return null;
+		
+		return new DefaultSqlSession(configuration);
 	}
 
 }

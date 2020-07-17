@@ -1,10 +1,10 @@
 package com.kkb.mybatis.framework.sqlsession;
 
+import java.io.InputStream;
+
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.io.SAXReader;
-
-import java.io.InputStream;
 
 public class DocumentReader {
 

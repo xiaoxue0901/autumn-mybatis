@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<properties resource="phase03/db.properties"></properties>
+
+	<plugins>
+		<plugin interceptor="com.github.pagehelper.PageInterceptor">
+			<!-- config params as the following -->
+			<property name="helperDialect" value="mysql" />
+		</plugin>
+	</plugins>
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="POOLED">
+				<property name="driver" value="${db.driver}" />
+				<property name="url" value="${db.url}" />
+				<property name="username" value="${db.username}" />
+				<property name="password" value="${db.password}" />
+			</dataSource>
+		</environment>
+	</environments>
+	<mappers>
+		<package name="com.kkb.mybatis01.phase03.mapper" />
+	</mappers>
+
+	<!-- mybatis 数据源环境配置 -->
+	<!--<environments default="dev">-->
+		<!--<environment id="dev">-->
+			<!--&lt;!&ndash; 配置数据源信息 &ndash;&gt;-->
+			<!--<dataSource type="DBCP">-->
+				<!--<property name="driver" value="com.mysql.jdbc.Driver"></property>-->
+				<!--<property name="url"-->
+						  <!--value="jdbc:mysql://localhost:3306/ssm"></property>-->
+				<!--<property name="username" value="root"></property>-->
+				<!--<property name="password" value="root"></property>-->
+			<!--</dataSource>-->
+		<!--</environment>-->
+	<!--</environments>-->
+
+	<!--&lt;!&ndash; 映射文件加载 &ndash;&gt;-->
+	<!--<mappers>-->
+		<!--&lt;!&ndash; resource指定映射文件的类路径 &ndash;&gt;-->
+		<!--<mapper resource="mapper/UserMapper.xml"></mapper>-->
+		<!--<mapper resource="mapper/UserMapper.xml"></mapper>-->
+		<!--<mapper resource="mapper/UserMapper.xml"></mapper>-->
+		<!--<mapper resource="mapper/UserMapper.xml"></mapper>-->
+		<!--<mapper resource="mapper/UserMapper.xml"></mapper>-->
+	<!--</mappers>-->
+</configuration>

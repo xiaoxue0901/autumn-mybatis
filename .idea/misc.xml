@@ -5,10 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/mybatis-framework-customer-07/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis01-04/pom.xml" />
+        <option value="D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/03-mybatis/mybatis-3-master/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

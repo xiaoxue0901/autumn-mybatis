@@ -1,11 +1,12 @@
 package com.kkb.mybatis.framework.sqlsession;
 
-import com.kkb.mybatis.framework.config.Configuration;
-import com.kkb.mybatis.framework.config.XMLConfigParser;
-import org.dom4j.Document;
-
 import java.io.InputStream;
 import java.io.Reader;
+
+import org.dom4j.Document;
+
+import com.kkb.mybatis.framework.config.Configuration;
+import com.kkb.mybatis.framework.config.XMLConfigParser;
 
 public class SqlSessionFactoryBuilder {
 	// 封装全局配置文件信息和所有映射文件的信息
