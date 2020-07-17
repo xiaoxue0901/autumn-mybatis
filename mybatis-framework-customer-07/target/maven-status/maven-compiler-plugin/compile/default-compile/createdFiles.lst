@@ -1,0 +1,8 @@
+com\kkb\mybatis\framework\sqlsession\DefaultSqlSessionFactory.class
+com\kkb\mybatis\framework\sqlsession\SqlSession.class
+com\kkb\mybatis\framework\config\XMLMapperParser.class
+com\kkb\mybatis\framework\sqlsession\SqlSessionFactory.class
+com\kkb\mybatis\framework\config\Configuration.class
+com\kkb\mybatis\framework\config\XMLConfigParser.class
+com\kkb\mybatis\framework\sqlsession\DocumentReader.class
+com\kkb\mybatis\framework\sqlsession\SqlSessionFactoryBuilder.class
