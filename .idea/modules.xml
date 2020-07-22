@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Idea-tools/Idea-tools.iml" filepath="$PROJECT_DIR$/Idea-tools/Idea-tools.iml" />
       <module fileurl="file://D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/04-设计模式讲解/design-pattern/design-pattern.iml" filepath="D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/04-设计模式讲解/design-pattern/design-pattern.iml" />
       <module fileurl="file://D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/03-mybatis/mybatis-3-master/mybatis.iml" filepath="D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/03-mybatis/mybatis-3-master/mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis-framework-customer-07/mybatis-framework-customer-07.iml" filepath="$PROJECT_DIR$/mybatis-framework-customer-07/mybatis-framework-customer-07.iml" />

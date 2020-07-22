@@ -2,122 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92670790-7bf1-425a-aafa-41b522b132c9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_flapdoodle_embed_de_flapdoodle_embed_process_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__eu_codearte_catch_exception_catch_exception_1_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_14_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ru_yandex_qatools_embed_postgresql_embedded_2_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/BoundSql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/MappedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/ParameterMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/SqlSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/DefaultSqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/SimpleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/utils/GenericTokenParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/utils/ParameterMappingTokenHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/utils/TokenHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/doc/Java第四版大纲0625.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/doc/MyBatis视频课(有图).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/doc/Mybatis笔记.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/doc/mybatis第一天笔记.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/doc/mybatis第二天笔记.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/lib/mybatis-generator-core-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/lib/ojdbc14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/GeneratorSqlmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase01/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase01/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase01/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase01/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase01/入门案例" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase02/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase02/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase02/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase02/基础应用" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase03/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase03/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase03/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase03/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase03/po/UserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/phase03/高级应用" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/dao/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/po/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/test/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/test/TestJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/test/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase01/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase01/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase01/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase02/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase02/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase02/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase03/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis01-04/src/resources/phase03/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idea-tools/Idea-tools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idea-tools/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/CommentHotKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/HotKey2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/XMLConfigParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/XMLConfigParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/XMLMapperParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/config/XMLMapperParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/DefaultSqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/DefaultSqlSessionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/DocumentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/DocumentReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/SqlSessionFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/sqlsession/SqlSessionFactoryBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis01-04/mybatis01-04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-04/mybatis01-04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis01-04/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis01-04/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mybatis-framework-customer-07/target/" />
     <ignored path="$PROJECT_DIR$/mybatis01-04/target/" />
     <ignored path="D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/03-mybatis/mybatis-3-master/target/" />
+    <ignored path="$PROJECT_DIR$/Idea-tools/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +25,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Idea-tools/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-396" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentHotKey.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/CommentHotKey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HotKey2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/HotKey2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -157,6 +89,8 @@
         <option value="$PROJECT_DIR$/mybatis01-04/pom.xml" />
         <option value="$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/dao/UserDaoImpl.java" />
         <option value="$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/framework/utils/TokenHandler.java" />
+        <option value="$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/CommentHotKey.java" />
+        <option value="$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/HotKey2.java" />
       </list>
     </option>
   </component>
@@ -205,8 +139,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="247" />
-    <option name="y" value="58" />
+    <option name="x" value="1972" />
+    <option name="y" value="35" />
     <option name="width" value="1505" />
     <option name="height" value="916" />
   </component>
@@ -226,55 +160,52 @@
           <expand>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_factory" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-              <item name="iface" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="autumn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Idea-tools" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="father" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="autumn" type="462c0819:PsiDirectoryNode" />
+              <item name="hotkey" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="autumn-mybatis" type="b2602c69:ProjectViewProjectNode" />
@@ -291,7 +222,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/BaiduNetdiskDownload/01-mybatis/01-mybatis/04-设计模式讲解/design-pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -302,10 +233,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\github\autum-mybatis\mybatis01-04\doc" />
+      <recent name="D:\BaiduNetdiskDownload\01-mybatis\01-mybatis\04-设计模式讲解\design-pattern\doc" />
       <recent name="D:\workspace\github\autum-mybatis\mybatis-framework-customer-07\src\main\java\com\kkb\mybatis" />
       <recent name="D:\workspace\github\autum-mybatis\mybatis-framework-customer-07\src\main\java\com\kkb\mybatis\framework" />
       <recent name="D:\workspace\github\autum-mybatis\mybatis01-04" />
-      <recent name="D:\workspace\github\autum-mybatis\mybatis01-04\src\main\java\com\kkb" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\github\autum-mybatis\mybatis01-04" />
@@ -377,44 +308,54 @@
       <option name="presentableId" value="Default" />
       <updated>1594977174541</updated>
       <workItem from="1594977179831" duration="1760000" />
-      <workItem from="1594980877441" duration="2253000" />
+      <workItem from="1594980877441" duration="2700000" />
+      <workItem from="1595208705366" duration="390000" />
+      <workItem from="1595402577956" duration="777000" />
     </task>
+    <task id="LOCAL-00001" summary="20200717 mybatis笔记提交">
+      <created>1594983335573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594983335573</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4013000" />
+    <option name="totallyTimeSpent" value="5627000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="395" y="59" width="1505" height="916" extended-state="0" />
+    <frame x="1972" y="35" width="1505" height="916" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.1966581" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.012456748" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23876765" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32991013" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22214533" />
       <window_info anchor="bottom" id="Statistic" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.22107969" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23876765" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32991013" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3252595" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -425,6 +366,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20200717 mybatis笔记提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="20200717 mybatis笔记提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mybatis-framework-customer-07/src/test/java/com/kkb/AppTest.java" />
@@ -467,9 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-251">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -477,9 +419,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -496,12 +435,6 @@
           <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="62" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/test/TestJdbc.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/test/MybatisTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis02/po/User.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -521,14 +454,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis01-04/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis01-04/src/main/java/com/kkb/mybatis01/GeneratorSqlmap.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -554,16 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/framework/config/XMLConfigParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/framework/utils/TokenHandler.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-framework-customer-07/src/main/java/com/kkb/mybatis/framework/framework/config/XMLConfigParser.java" />
     <entry file="file://$PROJECT_DIR$/mybatis01-04/doc/mybatis第一天笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -575,9 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,9 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -651,6 +563,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Idea-tools/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/CommentHotKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Idea-tools/src/main/java/com/autumn/hotkey/HotKey2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
